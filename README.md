@@ -1,4 +1,4 @@
-# predico
+# predicto
 This is a machine learning approach for predicting the outcome of a EPL matches.
 
 Dependencies:(needed to be pre installed)
